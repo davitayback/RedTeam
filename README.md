@@ -1,49 +1,28 @@
 
-# Red Team Study
+# 🥷 Red Team Study
 
-Bem-vindo ao meu curso de introdução à CyberSegurança! Neste repositório, você encontrará recursos para aprender sobre os fundamentos de Segurança Cibernética.
+#### O processo de ensinar, nos força a aprender e de forma mais duradoura.
+
+Bem-vind@s ao meu curso de introdução à CyberSec! 
+
+Neste repositório, você encontrará recursos para aprender sobre os fundamentos de Segurança Cibernética. E apesar de estar pautado nos moldes da Offensive Security, no qual oferece o Certified Ethical Hacker (CEH) e Offensive Security Certified Professional (OSCP), o conteúdo está voltado para o estudo para a Certificação EHF (Ethical Hacker Foundation) da EXIN, que é uma certificação Custo x Benefício, em questão de tempo de estudos, valor da prova e reconhecimento internacional da metodologia da EXIN que prepara o profissionais para iniciar em qualquer equipe de RedTeam.
+
 
 [tayback.tech](https://tayback.tech)
 
-## 📚 Documentação 
+## 🗺️ Education Map 
 
-## Naveação Rápida Introdutória
 
-|Fase   |         Objetivo o           |
+|Fase   |         Objetivo           |
 |-------|---------                     |
-|F0     |[Planejamento e Escorpo](#1---planejamento-e-escopo)|
+|Pré |[Planejamento e Escorpo](#1---planejamento-e-escopo)|
 |F1     |[Reconhecimento (Footprinting)](#2---reconhecimento-footprinting)| 
 |F2     |[Mapeamento (Fingerprinting)](#3---mapeamento-fingerprinting)                      |
 |F3     |[Exploração](#4---exploração)                      |
 |F4     |[Pós Exploração](#5---pós-exploração)                      |
 |F5     |[Relatório e Recomendações](#6---relatório-e-recomendações)                      |
-|FE     |[Extra](#extra)                        |
+|Extra   |[Step up your game](#extra)                        |
 
-
-
-
-
-***
-
-
-## Códigos e Ferramentas
-
-Explore códigos e ferramentas úteis para suas atividades de segurança cibernética.
-
-- [Kali Linux](codigos-e-ferramentas/ferramenta1/README.md)
-- [Ferramenta 2](codigos-e-ferramentas/ferramenta2/README.md)
-
-## Recursos Adicionais
-
-Descubra mais recursos para aprofundar seu conhecimento em segurança cibernética.
-
-- [Links Úteis](recursos-adicionais/links.md)
-- [Livros Recomendados](recursos-adicionais/livros.md)
-
-
-
-# Red Team - Script Davi Tayback
-Resolvi fazer esse guia de estudos e vou editando e melhorando enquanto estudo. Aqui online poderei receber melhorias de pessoas mais experientes e poder ajudar outros estudantes de Cyber Security
 
 Resolvi fazer um modelo de estudo desenvolvido pela Offensive Security 
 
@@ -93,15 +72,28 @@ Iteração e melhoria dos processos de segurança com base nas descobertas do pe
 A metodologia da Offensive Security, como a oferecida pelo treinamento Certified Ethical Hacker (CEH) e Offensive Security Certified Professional (OSCP), enfatiza a abordagem hands-on, na qual os profissionais de segurança precisam demonstrar habilidades práticas para identificar, explorar e mitigar vulnerabilidades. Isso ajuda a preparar especialistas para enfrentar desafios reais de segurança cibernética e fortalecer a postura de segurança das organizações.
 
 
-## Roadmap
+***
 
-- Melhorar o suporte de navegadores
 
-- Adicionar mais integrações
+## Códigos e Ferramentas
+
+Explore códigos e ferramentas úteis para suas atividades de segurança cibernética.
+
+- [Kali Linux](codigos-e-ferramentas/ferramenta1/README.md)
+- [Ferramenta 2](codigos-e-ferramentas/ferramenta2/README.md)
+
+## Recursos Adicionais
+
+Descubra mais recursos para aprofundar seu conhecimento em segurança cibernética.
+
+- [Links Úteis](recursos-adicionais/links.md)
+- [Livros Recomendados](recursos-adicionais/livros.md)
+
+
 
 
 ## Referência
 
- - [link EHF](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Link Amazom](https://github.com/matiassingers/awesome-readme)
- - [Outra referência](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Manual Ethical Hacking Foundation - EXIN](https://dam.exin.com/api/&request=asset.permadownload&id=61&type=this&token=d6ae1993ff0935e3048bb38f3d58df02)
+ - [Livro Teste de Invasão ](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077)
+ - [Check List de estudos do Livro Teste de Invasão](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
